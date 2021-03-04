@@ -5,7 +5,7 @@ from typing import Optional
 
 app = FastAPI()
 client = MongoClient(
-    "mongodb+srv://user:cx9N8KSsnxmLEOjW@yuubot.ngsyb.mongodb.net/mygovnoprojectakylkalox""?retryWrites=true&w=majority"
+    "Тут сами"
 )
 db = client.mygovno
 collection = db.mygovno
