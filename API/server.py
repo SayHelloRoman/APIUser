@@ -65,3 +65,5 @@ async def search():
             "age": i["age"]
         }
         for i in collection.find()]
+
+#За то всё работает
